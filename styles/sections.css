@@ -25,7 +25,7 @@
 
         padding: 24px;
 
-        $:has(.text-lg) {
+        &:has(.text-lg) {
             padding: 12px;
         }
 
